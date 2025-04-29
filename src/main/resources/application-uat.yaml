@@ -17,6 +17,8 @@ aws:
   region: ap-south-2
   s3:
     bucketName: career-adivce-partner
+    accessKeyId: AKIASBGQLISJKUOKRPPG
+    secretAccessKey: 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
 
 logging:
   level:
